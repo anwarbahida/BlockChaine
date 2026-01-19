@@ -39,17 +39,17 @@ Elle permet l’enregistrement de transactions entre utilisateurs sous forme de 
 ---
 
 ### Figure 2 : Enregistrement d’une transaction de **50 DH** de **Anwar** vers **Ayoub** – Bloc #2
-![Bloc 2](screenshots/image copy.png)
+![Bloc 2](screenshots/imagecopy.png)
 
 ---
 
 ### Figure 3 : Enregistrement d’une transaction de **30 DH** de **Ayoub** vers **Ali** – Bloc #3
-![Bloc 3](screenshots/image copy 2.png)
+![Bloc 3](screenshots/imagecopy2.png)
 
 ---
 
 ### Figure 4 : Enregistrement d’une transaction de **10 DH** de **Ali** vers **Ahmed** – Bloc #4
-![Bloc 4](screenshots/image copy 3.png)
+![Bloc 4](screenshots/imagecopy3.png)
 
 ---
 
