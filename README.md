@@ -26,7 +26,7 @@ Elle permet l’enregistrement de transactions entre utilisateurs sous forme de 
 
 ## 🛠️ Technologies utilisées
 - Langage : Python 
-- Interface graphique :Tkinter
+- Interface graphique :CustomTkinter
 - Algorithme de hachage : SHA-256
 
 ---
